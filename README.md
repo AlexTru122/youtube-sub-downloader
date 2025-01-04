@@ -38,13 +38,13 @@ source venv/bin/activate
 ## Конфигурация
 Получите API-ключ YouTube Data API:
 
-Перейдите в Google Cloud Console.
-Создайте новый проект или выберите существующий.
-Перейдите в APIs & Services > Library.
-Найдите YouTube Data API v3 и включите его.
-Перейдите в APIs & Services > Credentials.
-Создайте API-ключ и скопируйте его.
-Вставьте API-ключ в скрипт:
+1. Перейдите в Google Cloud Console.
+2. Создайте новый проект или выберите существующий.
+3. Перейдите в APIs & Services > Library.
+4. Найдите YouTube Data API v3 и включите его.
+5. Перейдите в APIs & Services > Credentials.
+6. Создайте API-ключ и скопируйте его.
+7. Вставьте API-ключ в скрипт:
 
 Откройте script.py (или как вы назвали файл) и вставьте ваш API-ключ:
 ```
